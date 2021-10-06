@@ -1,6 +1,6 @@
 {
     "name": "onsenui-photo-sharing-app-template",
-    "version": "2.2.0",
+    "version": "4.4.0",
     "displayName": "OnsenUI Photo Sharing Demo",
     "cordova": {
         "plugins": {
