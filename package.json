@@ -1,6 +1,6 @@
 {
   "name": "onsenui-photo-sharing-app-template",
-  "version": "4.1.6",
+  "version": "4.1.7",
   "displayName": "OnsenUI Photo Sharing Demo",
   "engines": {
     "node": ">=20.17"
